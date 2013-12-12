@@ -1,0 +1,2 @@
+leftoff: need to create the spawn pipeline BEFORE i grab all of the output data, that way, i can pipe live shit to the spawn pipeline
+

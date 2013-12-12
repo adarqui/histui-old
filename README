@@ -1,0 +1,3 @@
+old project, uploading for backup. I'm going to re-do this in a more suitable language, go for example. It's definitely something I will find useful. Basically, histui was supposed to be some kind of wrapper around "any console shell". For example, you would then be able to have a shell history and use grep/cat/vim etc while logged into a cisco, fortigate, restricted shell, bbs, etc.. It allows you to 'pipe' shell data into local processes and then modify the input/output. It also saves a .histui_history locally.
+
+I remember having a more 'featured' version than this, dno where it is. Node was the wrong tool for the job, I need a synchronous language to write this properly.
